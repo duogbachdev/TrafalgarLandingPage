@@ -19,7 +19,7 @@ $ npm run start:dev
 
 Guide: 
 
-Demo: 
+Demo: https://trafalgar-duogbachdev.vercel.app
 
 Author: **DuogBachDev** aka **DuogBachDev**
 

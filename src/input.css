@@ -5,7 +5,7 @@
 
 /* ct = custom */
 .ct-topmenu-expanded {
-  @apply absolute top-14 z-50 w-full bg-gray-300 text-white text-center animate-slideDown;
+  @apply absolute top-14 py-5 rounded-md leading-10 z-50 w-full bg-gray-300 text-white text-center animate-slideDown;
 }
 
 .ct-top-menu-item {
