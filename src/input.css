@@ -22,3 +22,7 @@
 .ct-btn {
   @apply cursor-pointer hover:opacity-95 w-[200px] py-4 rounded-full text-center font-bold;
 }
+
+.ct-footer{
+  @apply text-white font-light leading-7 text-[18px]
+}
